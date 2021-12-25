@@ -7,6 +7,8 @@ This repos shows how to:
 
 ## Usage
 
+![streamlit-app](https://user-images.githubusercontent.com/50741878/147391147-52f44eb1-6c9b-4cac-9d7a-749e27a34a0f.png)
+
 ### Docker
 
 Build the Docker image locally:
