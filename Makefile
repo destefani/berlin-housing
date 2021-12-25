@@ -1,0 +1,4 @@
+setup:
+install:
+test:
+lint:
