@@ -11,11 +11,15 @@ This repos shows how to:
 
 Build the Docker image locally:
 
-`docker build -t berlin-housing:latest .`
+```
+docker build -t berlin-housing:latest .
+```
 
 Run the container exposing port 8501:
 
-`docker run -p 8501:8501 berlin-housing:latest`
+```
+docker run -p 8501:8501 berlin-housing:latest
+```
 
 The terminal should print the local address where you can access the application
 
