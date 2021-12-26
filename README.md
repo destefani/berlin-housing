@@ -2,7 +2,7 @@
 
 This repos shows how to:
 1. Train a Random Forest Regressor to predict rent prices from historical data.
-2. Create a Streamlit web application to use the model.
+2. Create a Streamlit web application to make predictions.
 3. Deploy the model following MLOps good practices.
 
 ## Usage
